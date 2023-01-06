@@ -1,0 +1,3 @@
+I am learning Git and Github.
+I am learning it from Udemy Course by Json Tailor and You Tube Channel "EduVellari".
+Prepared all notes with commands and hands on codes.
